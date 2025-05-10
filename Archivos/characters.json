@@ -7254,5 +7254,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {  "id": "2755442",
+      "name": "Hina dress",
+      "gender": "Mujer",
+      "value": "1992",
+      "source": "Blue Archive",
+      "img": [
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1746900835787.jpeg",
+         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742848270137.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746902651536.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746902665654.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746902671665.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746902765544.jpeg"
+      ],
+      "vid":[],
+      "user": null,
+      "status": "libre",
+      "votes": 0
    }
+      
 ]
