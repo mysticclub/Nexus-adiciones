@@ -7358,5 +7358,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1746988376963",
+      "name": "Ai Hoshino",
+      "gender": "Mujer",
+      "value": "1488",
+      "source": "Oshi no Ko",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746986425035.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746987091629.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746987413299.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746987784959.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746988070835.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
