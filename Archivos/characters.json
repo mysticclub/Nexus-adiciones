@@ -7255,7 +7255,8 @@
       "status": "Libre",
       "votes": 0
    },
-   {  "id": "2755442",
+   {
+      "id": "2755442",
       "name": "Hina dress",
       "gender": "Mujer",
       "value": "1992",
@@ -7268,10 +7269,28 @@
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746902671665.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746902765544.jpeg"
       ],
-      "vid":[],
+      "vid": [],
       "user": null,
       "status": "libre",
       "votes": 0
+   },
+   {
+      "id": "1746981829008",
+      "name": "Celia Claire",
+      "gender": "Mujer",
+      "value": "1803",
+      "source": "Serei Gensouki",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746981426602.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746981444057.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746981465967.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746981684388.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746981668584.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
-      
 ]
