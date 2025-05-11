@@ -7777,5 +7777,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747003980480",
+      "name": "Tsuyu Asui",
+      "gender": "Mujer",
+      "value": "1189",
+      "source": "Boku no hero",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003610965.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003622700.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003617644.jpeg https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003610965.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
