@@ -7873,5 +7873,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747483351154",
+      "name": "Nejire Hado",
+      "gender": "Mujer",
+      "value": "1841",
+      "source": "Boku no hero",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747483279512.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747483262829.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747483255165.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
