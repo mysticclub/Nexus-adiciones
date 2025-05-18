@@ -7956,5 +7956,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747527955033",
+      "name": "Mai Chihara",
+      "gender": "Mujer",
+      "value": "1971",
+      "source": "Jirai nan desu ka? Chihara-san",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747527466521.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747527482814.jpeg",
+         "https://vt.tiktok.com/ZSh4bdur4/"
+      ],
+      "vid": [
+         "https://vt.tiktok.com/ZSh4bh8Xa/"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
