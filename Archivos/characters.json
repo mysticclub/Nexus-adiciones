@@ -8025,5 +8025,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747684345130",
+      "name": "Kagari Fuyukawa",
+      "gender": "Mujer",
+      "value": "1692",
+      "source": "Hakanai Kimi wa Moukou wo Hajimeru",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747683802202.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747683807461.jpeg",
+         "https://vt.tiktok.com/ZShgLTMRc/"
+      ],
+      "vid": [
+         "https://vt.tiktok.com/ZShgLoUor/"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
