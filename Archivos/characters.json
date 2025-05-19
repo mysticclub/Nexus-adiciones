@@ -8043,5 +8043,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747685806885",
+      "name": "Waguri Kaoruko",
+      "gender": "Mujer",
+      "value": "1459",
+      "source": "Kaoru Hana wa Rin to Saku",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747685496363.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747685501702.jpeg",
+         "https://vt.tiktok.com/ZShgFBvgU/"
+      ],
+      "vid": [
+         "https://vt.tiktok.com/ZShgFfUh3/"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
