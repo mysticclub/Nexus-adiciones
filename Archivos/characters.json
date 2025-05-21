@@ -8539,5 +8539,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747869996988",
+      "name": "Rokusuke Kōenji",
+      "gender": "Hombre",
+      "value": "1701",
+      "source": "Classroom of the Elite",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869907912.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869914284.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869921263.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869931656.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869937465.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
