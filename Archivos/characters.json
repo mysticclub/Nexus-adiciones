@@ -8119,5 +8119,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747864430021",
+      "name": "Hitori Gotō",
+      "gender": "Mujer",
+      "value": "1525",
+      "source": "Bocchi The Rock",
+      "img": [
+         "https://pin.it/2uYJBd8I0",
+         "https://pin.it/6SDZfbjSq",
+         "https://pin.it/4tjkLj5L6"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747864334210.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
