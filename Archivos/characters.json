@@ -8679,5 +8679,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747871576923",
+      "name": "Ryuen Kakeru",
+      "gender": "Hombre",
+      "value": "1846",
+      "source": "Classroom of the Elite",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747871526782.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747871518590.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747871512820.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747871502055.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747871497767.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
