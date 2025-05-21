@@ -8520,5 +8520,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747869519868",
+      "name": "Kafka",
+      "gender": "Mujer",
+      "value": "1338",
+      "source": "Honkai Star Rail",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869217455.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869224722.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869231053.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869253763.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869256695.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
