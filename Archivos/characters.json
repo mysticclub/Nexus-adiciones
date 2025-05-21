@@ -8156,5 +8156,23 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747865532337",
+      "name": "Virgil",
+      "gender": "Hombre",
+      "value": "1205",
+      "source": "Devil May Cry",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747865347519.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747865382390.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747865386961.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747865517693.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
