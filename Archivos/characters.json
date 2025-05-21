@@ -8501,5 +8501,24 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747869436429",
+      "name": "Kei Karuizawa",
+      "gender": "Mujer",
+      "value": "1946",
+      "source": "Classroom of the Elite",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869331291.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869342415.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869351664.jpeg"
+      ],
+      "vid": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869361594.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747869368101.mp4"
+      ],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
