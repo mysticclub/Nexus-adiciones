@@ -153,19 +153,19 @@
    },
    {
       "id": "9",
-        "name": "Momo Belia Deviluke",
-        "gender": "Mujer",
-        "value": "7500",
-        "source": "To LOVE-Ru",
-        "img": [
-            "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747001289015.jpeg",
-            "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747001283987.jpeg",
-            "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747001268350.jpeg"
-        ],
-        "vid": [],
-        "user": null,
-        "status": "libre",
-        "votes": 0
+      "name": "Momo Belia Deviluke",
+      "gender": "Mujer",
+      "value": "7500",
+      "source": "To LOVE-Ru",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747001289015.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747001283987.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747001268350.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "libre",
+      "votes": 0
    },
    {
       "id": "10",
@@ -193,11 +193,11 @@
       "value": "7500",
       "source": "Bocchi the Rock!",
       "img": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998187106.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998193134.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998553982.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998537598.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998528450.jpeg"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998187106.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998193134.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998553982.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998537598.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746998528450.jpeg"
       ],
       "vid": [
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1746999003466.mp4",
@@ -207,20 +207,20 @@
       "status": "libre",
       "votes": 0
    },
-   {  
+   {
       "id": "12",
       "name": "Sumi Sakurasawa",
       "gender": "Mujer",
       "value": "7500",
       "source": "Rent a Girlfriend",
       "img": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002642384.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002648944.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002653788.jpeg"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002642384.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002648944.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002653788.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002882681.mp4",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002897478.mp4"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002882681.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747002897478.mp4"
       ],
       "user": null,
       "status": "libre",
@@ -233,27 +233,28 @@
       "value": "7500",
       "source": "Himouto! Umaru-chan",
       "img": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003788883.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003796176.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003808894.jpeg"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003788883.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003796176.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003808894.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003812624.mp4",
-            "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003818282.mp4"
-        ],
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003812624.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003818282.mp4"
+      ],
       "user": null,
       "status": "libre",
       "votes": 0
    },
-   {  "id": "14",
+   {
+      "id": "14",
       "name": "Chizuru Mizuhara",
       "gender": "Mujer",
       "value": "7500",
       "source": "Rent a Girlfriend",
       "img": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004374636.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004373376.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004385950.jpeg"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004374636.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004373376.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004385950.jpeg"
       ],
       "vid": [
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747004400114.mp4",
@@ -280,7 +281,7 @@
       ],
       "user": null,
       "status": "Libre",
-      "votes": 0 
+      "votes": 0
    },
    {
       "id": "16",
@@ -492,8 +493,8 @@
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747031984312.jpeg"
       ],
       "vid": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747032174189.mp4",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747032182534.mp4"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747032174189.mp4",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747032182534.mp4"
       ],
       "user": null,
       "status": "Libre",
@@ -553,7 +554,7 @@
       ],
       "vid": [
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747064907709.mp4",
-         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747064940944.mp4" 
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747064940944.mp4"
       ],
       "user": null,
       "status": "Libre",
@@ -572,7 +573,6 @@
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747062059735.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747062071164.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747062078886.jpeg"
-        
       ],
       "vid": [
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747062385209.mp4",
@@ -780,7 +780,7 @@
       "value": "7500",
       "source": "Chūnibyō Demo Koi ga Shitai!",
       "img": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747679328627.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747679328627.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747679336982.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747679345551.jpeg"
       ],
@@ -796,9 +796,9 @@
       "value": "7500",
       "source": "K-on",
       "img": [
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747889001495.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747889009503.jpeg",
-          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747889288851.jpeg"
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747889001495.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747889009503.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747889288851.jpeg"
       ],
       "vid": [],
       "user": null,
@@ -6786,7 +6786,6 @@
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747928738167.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747928704661.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747928717564.jpeg"
-         
       ],
       "vid": [],
       "user": null,
@@ -7660,7 +7659,7 @@
       "status": "Libre",
       "votes": 0
    },
-      {
+   {
       "id": "429",
       "name": "Tsuyu Asui",
       "gender": "Mujer",
@@ -7669,7 +7668,7 @@
       "img": [
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003610965.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003622700.jpeg",
-         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003617644.jpeg", 
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003617644.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747003610965.jpeg"
       ],
       "vid": [],
@@ -8101,7 +8100,7 @@
       "status": "Libre",
       "votes": 0
    },
-      {
+   {
       "id": "455",
       "name": "Patty",
       "gender": "Mujer",
@@ -9333,6 +9332,22 @@
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747923328390.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747923319382.jpeg",
          "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747923307161.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
+   },
+   {
+      "id": "1747941915094",
+      "name": "Pico",
+      "gender": "Hombre",
+      "value": "1218",
+      "source": "Boku no Pico",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747941757834.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747941765368.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747941770325.jpeg"
       ],
       "vid": [],
       "user": null,
