@@ -9545,5 +9545,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747943502051",
+      "name": "Koyomi Kanou",
+      "gender": "Mujer",
+      "value": "1906",
+      "source": "Yagate Kimi ni Naru",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747943458050.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747943452431.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747943449190.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
