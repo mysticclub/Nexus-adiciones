@@ -9801,5 +9801,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1747951018452",
+      "name": "Yamada Sanae",
+      "gender": "Mujer",
+      "value": "1050",
+      "source": "Boku no Kokoro",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747950984102.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747950931600.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1747950923382.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
