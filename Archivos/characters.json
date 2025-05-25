@@ -10618,5 +10618,21 @@
       "user": null,
       "status": "Libre",
       "votes": 0
+   },
+   {
+      "id": "1748198606665",
+      "name": "Mikoto Urabe",
+      "gender": "Mujer",
+      "value": "1413",
+      "source": "Nazo no Kanojo X",
+      "img": [
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1748198562585.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1748198567615.jpeg",
+         "https://raw.githubusercontent.com/https0J/Hoshino-Adiciones/main/Contenido/1748198573660.jpeg"
+      ],
+      "vid": [],
+      "user": null,
+      "status": "Libre",
+      "votes": 0
    }
 ]
