@@ -10631,21 +10631,5 @@
     "user": null,
     "status": "Libre",
     "votes": 0
-  },
-  {
-    "id": "1749521063385",
-    "name": "Ainz Ooal Gown",
-    "gender": "Hombre",
-    "value": "10000",
-    "source": "Overlord",
-    "img": [
-      "https://files.catbox.moe/x5wuw2.jpg",
-      "https://files.catbox.moe/9a756l.jpg",
-      "https://files.catbox.moe/yau6io.jpg"
-    ],
-    "vid": [],
-    "user": null,
-    "status": "Libre",
-    "votes": 0
   }
 ]
