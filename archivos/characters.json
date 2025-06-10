@@ -10631,5 +10631,21 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1749517066363",
+    "name": "Arc",
+    "gender": "Hombre",
+    "value": "10000",
+    "source": "Skelethon Kinght  In Anther World",
+    "img": [
+      "https://files.catbox.moe/c0bs8p.jpg",
+      "https://files.catbox.moe/gpy5fz.jpg",
+      "https://files.catbox.moe/nkjc7b.jpg"
+    ],
+    "vid": [],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
