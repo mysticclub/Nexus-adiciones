@@ -10650,5 +10650,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1749601447015",
+    "name": "Optimus Prime",
+    "gender": "Hombre",
+    "value": "8691",
+    "source": "Transformers G1",
+    "img": [
+      "https://files.catbox.moe/eirp0o.jpg",
+      "https://files.catbox.moe/kj4je3.jpg",
+      "https://files.catbox.moe/ihpafk.jpg"
+    ],
+    "vid": [
+      "https://files.catbox.moe/nocn96.mp4",
+      "https://files.catbox.moe/222x5e.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
