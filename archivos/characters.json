@@ -10688,24 +10688,5 @@
     "user": null,
     "status": "Libre",
     "votes": 0
-  },
-  {
-    "id": "1749613690082",
-    "name": "Megatron",
-    "gender": "Hombre",
-    "value": "9180",
-    "source": "Transformers",
-    "img": [
-      "https://files.catbox.moe/535e5s.jpg",
-      "https://files.catbox.moe/qg7fwz.jpg",
-      "https://files.catbox.moe/1rqm39.jpg"
-    ],
-    "vid": [
-      "https://files.catbox.moe/gv5eg3.mp4",
-      "https://files.catbox.moe/omvwdl.mp4"
-    ],
-    "user": null,
-    "status": "Libre",
-    "votes": 0
   }
 ]
