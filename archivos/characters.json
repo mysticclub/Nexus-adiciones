@@ -10764,5 +10764,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1749822512440",
+    "name": "Arcee",
+    "gender": "Mujer",
+    "value": "7800",
+    "source": "Transformers",
+    "img": [
+      "https://files.catbox.moe/cs6o08.jpg",
+      "https://files.catbox.moe/8z80uj.jpg",
+      "https://files.catbox.moe/twklwi.jpg"
+    ],
+    "vid": [
+      "https://files.catbox.moe/i3xgei.mp4",
+      "https://files.catbox.moe/o1gmqg.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
