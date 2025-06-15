@@ -10783,5 +10783,24 @@
     "user": "5213343777835@s.whatsapp.net",
     "status": "Reclamado",
     "votes": 0
+  },
+  {
+    "id": "1749962218298",
+    "name": "Rachet",
+    "gender": "Hombre",
+    "value": "8350",
+    "source": "Transformers",
+    "img": [
+      "https://files.catbox.moe/mba1kl.jpg",
+      "https://files.catbox.moe/i500my.jpg",
+      "https://files.catbox.moe/rodv1m.jpg"
+    ],
+    "vid": [
+      "https://files.catbox.moe/i0908v.mp4",
+      "https://files.catbox.moe/s1bxj9.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
