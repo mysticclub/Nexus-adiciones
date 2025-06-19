@@ -10730,5 +10730,24 @@
     "user": null,
     "status": "Libre",
     "votes": 0
+  },
+  {
+    "id": "1750350603905",
+    "name": "Gon Freecs",
+    "gender": "Hombre",
+    "value": "7500",
+    "source": "Isla Ballena",
+    "img": [
+      "https://pin.it/2QOSESUL8",
+      "https://pin.it/iwO6HjUro>",
+      "https://pin.it/ZnlNhYoMy"
+    ],
+    "vid": [
+      "https://files.catbox.moe/obi03e.mp4",
+      "https://files.catbox.moe/09vsdp.mp4"
+    ],
+    "user": null,
+    "status": "Libre",
+    "votes": 0
   }
 ]
